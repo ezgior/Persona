@@ -12,3 +12,5 @@ we determine users have watched same movies with the user chosen.
 We create correlation dataframe Then find the most similar users,
 We make recommend movies to the user by user based colloboartive filtering method.
 Link for datasets : https://grouplens.org/datasets/movielens/latest/
+# Persona- CLTV_Calculation
+BG-NBD and  GAMMA-GAMMA Models are used in order to calculate customer life time value
