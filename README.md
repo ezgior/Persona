@@ -5,7 +5,7 @@ it is shown that we can segment a new customer by using our data from earlier cu
 By this way we can predict our profit from this customer
 # Persona- ARL Recommendation
 This file create asscociation rule learning recommendation 
-Onlin_retail_II data set is used and recommendations are made for a user during shopping 
+Online_retail_II data set is used and recommendations are made for a user during shopping 
 # Persona- Hybrid Recommendation
 In this project there are two data files which are movie.csv and rating.csv
 we determine users have watched same movies with the user chosen.
