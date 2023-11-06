@@ -1,10 +1,10 @@
 # Persona- Segmentation
-This data set consists of Price Source(cell phone operating system) Sex  Country and Age info./
+This data set consists of Price Source(cell phone operating system) Sex  Country and Age info.\
 In this notebook, Level Based Classification is applied and 
-it is shown that we can segment a new customer by using our data from earlier customer information./
+it is shown that we can segment a new customer by using our data from earlier customer information.\
 By this way we can predict our profit from this customer.
 # Persona- ARL Recommendation
-This file create asscociation rule learning recommendation./ 
+This file create asscociation rule learning recommendation.\ 
 Online_retail_II data set is used and recommendations are made for a user during shopping.
 # Persona- Hybrid Recommendation
 In this project there are two data files which are movie.csv and rating.csv
